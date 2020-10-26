@@ -1,0 +1,2 @@
+# survey_datasets
+This repository hosts the survey datasets collected in Taipei, Tel Aviv and Tallinn, three cities which are the three case studies of my PhD research on Stakeholder Engagement in Smart-City. It has been collected by sending the link to respondents, both in direct and through common social networks. I am sharing this datasets in order to offer some possibilities of collaboration around my research. You can read more explanation on the underlying internet-based research methodology I'm using here : https://bit.ly/32liwLe
