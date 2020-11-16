@@ -1,7 +1,33 @@
 # survey_datasets
 This repository hosts the survey datasets collected in Taipei, Tel Aviv and Tallinn, three cities which are the three case studies of my PhD research on Stakeholder Engagement in Smart-City. It has been collected by sending the link to respondents, both in direct and through common social networks. I am sharing this dataset in order to offer some possibilities of collaboration around my research. You can read more explanation on the underlying internet-based research methodology I'm using here : https://bit.ly/32liwLe
 
-This is the plan of the questions asked in this survey :
+
+Correspondance between fields name in DemocracyStudioDB and survey questions :
+gender : 1. Are you a :
+birth_date : 2. What is your birth date (approximately) ?
+arrival_date : 3. When did you started to live in this city ? (approximately)
+district_id : 4. Which district are you living in ?
+engagement_feeling : 5. How much do you feel engaged in Decision-Making in your city ?
+media_source : 6. What kind of media provides you the information you need to make an opinion on the decisions to make (multiple answer available ) ?
+social_media : 7. Which social media are you using the most (multiple answer available) ?
+messaging_app : 8. Which Messaging app are you using the most (multiple answer available) ?
+agent_category : 9. Which category of Stakeholder do you feel to be part of ?
+agent_type : 10. Which type of actor represents you the best ?
+influencers : 11. In your decision-making, which type of actor do you feel the most influenced by (Multiple answer available) ?
+relationship_cat1 : 12. How would you qualify your relationship with "Governmental & Public Sector" ?
+relationship_cat2 : 12. How would you qualify your relationship with "University Academics, Research & Innovation" ?
+relationship_cat3 : 12. How would you qualify your relationship with "Private Sector" ?
+relationship_cat4 : 12. How would you qualify your relationship with "Civil Society, Social and Third Sector" ?
+meeting_place : 13. Where do you usually meet other actors of decision-making (multiple answer available) ?
+opinion_share : 14. How much do you feel you can express your opinion in that places ?
+opinion_change : 15. How much do you feel that meeting other actors makes you change your opinion ?
+engagement_wish : 16. Would you like to engage more in decision-making on your city ?
+engagement_type : 17. What kind of engagement are you open to (multiple answers available) ?
+engagement_freq : 18. How many time would you agree to spend in engagement on decision-making for your city ?
+
+
+
+This is the possible answers to the questions asked :
 
 1. Are you a :
 a. Man
@@ -75,7 +101,8 @@ Else :
 44. Shapira
 45. Giv'at Herzl
 46. Abu Kabir
-47. American–German Colony 48. Nahalat Yitzhak
+47. American–German Colony 
+48. Nahalat Yitzhak
 49. Bitzaron
 50. Ramat Yisrael
 51. Tel Haim
